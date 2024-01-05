@@ -4,3 +4,6 @@ public static void main(){
 void samplefunction(){
 	system.out.println("Sample code added");
 }
+void newfunction(){
+	system.out.println("newfunction added");
+}
